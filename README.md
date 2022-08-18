@@ -1,5 +1,5 @@
 # Bayesian_Differentiable_Architecture_Search_for_Fault_Diagnosis
-## Author: Zheng Zhou
+## Author: Zheng Zhou, Ruqiang Yan*
 ## Paper Link: https://ieeexplore.ieee.org/document/9419078
 This repository is dedicated to provide users of interests with the ability to solve fault diagnosis problems using ***Bayesian Differentiable Architecture Search (BDAS)*** in our paper "Bayesian Differentiable Architecture Search for Efficient Domain Matching Fault Diagnosis" (Zhou, 2021).
 
