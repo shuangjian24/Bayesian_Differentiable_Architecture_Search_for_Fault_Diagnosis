@@ -25,3 +25,12 @@ Bayesian Differentiable Architecture Search (BDAS)基于DARTS进行开发，
 
 ## Citation
 If you found this work useful, consider citing us:
+```
+@ARTICLE{
+BDAS, 
+author={Zheng Zhou and Tianfu Li and Zilong Zhang and Zhibin Zhao and Chuang Sun and Ruqiang Yan* and Xuefeng Chen}, 
+journal={IEEE Transactions on Instrumentation and Measurement}, 
+title={Bayesian Differentiable Architecture Search for Efficient Domain Matching Fault Diagnosis}, 
+year={2021}, 
+}
+```
